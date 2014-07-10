@@ -6,7 +6,7 @@ Python script that simplifies the apt-get update / review / apt-get dist-upgrade
 Why?
 ----
 I use a Debian system with [pinning](http://jaqque.sbih.org/kplug/apt-pinning.html).
-Usually, I the following to upgrade my system:
+Usually, I run the following steps to upgrade my system:
 
 ```
 $ apt-get update
