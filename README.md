@@ -16,7 +16,7 @@ $ apt-get dist-upgrade
 ```
 
 `dist-upgrade.py` simplifies the whole process. It runs `apt-get update`, then lists then
-number of updates per repository and interactively ask to install them. Usually, this is
+number of updates per repository and interactively asks to install them. Usually, this is
 enough and I hit enter to install the updates. `dist-upgrade.py` allows to review the list
 of upgrades in a pager (yeah), and then asks again to install the updates.
 
